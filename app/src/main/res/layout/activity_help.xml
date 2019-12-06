@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HelpActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="帮助界面：\n这是一个简单的音乐播放器\n可以进行音乐的播放\n
+音乐的播放和暂停\n音乐的循环播放和随机播放\n上下首歌曲的切换"
+        android:textSize="30sp"/>
+</LinearLayout>
